@@ -1,4 +1,4 @@
-![Alt Text](capsNet.png)
+![Alt Text](ResizedP_20230409_201422.gif)
 ![Alt Text](capsNet.png)
 ![Alt Text](capsNet.png)
 
