@@ -1,8 +1,5 @@
-![Alt Text](ResizedP_20230409_201422.gif)
-![Alt Text](ResizedP_20230409_201617.gif)
-![Alt Text](ResizedP_20230409_201711.gif)
-
 # UAP Tracking with YOLO v5 and Faster R-CNN using Radar Data
+![Alt Text](ResizedP_20230409_201422.gif)
 
 This repository contains the code and design documents for the research project titled "Comparing YOLO v5 and Faster R-CNN for Unidentified Aerial Phenomena (UAP) Tracking using Radar Data".
 
@@ -10,9 +7,14 @@ This repository contains the code and design documents for the research project 
 
 The tracking of Unidentified Aerial Phenomena (UAP) is a critical challenge for military and aviation authorities, as these objects have erratic flight paths, high speed, and move unpredictably. Machine learning algorithms have shown promise in tracking these objects, but there is a need to determine which architecture is the most effective for the task. This research proposal aims to compare the performance of two popular machine learning architectures, YOLO v5 and Faster R-CNN, for UAP tracking using radar data.
 
+![Alt Text](ResizedP_20230409_201617.gif)
+
+
 ## Research Question
 
 Which machine learning architecture, YOLO v5 or Faster R-CNN, is more effective for UAP tracking using radar data?
+
+![Alt Text](ResizedP_20230409_201711.gif)
 
 ## Methodology
 
